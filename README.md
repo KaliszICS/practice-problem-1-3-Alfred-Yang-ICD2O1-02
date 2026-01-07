@@ -1,8 +1,4 @@
-# Instructions  
-
-Practice Problems 1.2
-
-Comment all of the following code. Ensure your code is easily readable and well-spaced.
+# Instructions
 
 Don't forget to document your code.
 
